@@ -9,7 +9,7 @@ header {
 	background-color:	#F5EAD5;
 	margin:			10px 10px 0px 10px;
 	height:			108px;
-}	
+}
 
 div#tableContainer {
 	display:		table;
@@ -55,7 +55,7 @@ h1, h2{
 }
 
 table {
-	border:			thin solid black;
+	border:			thin solid blue;
 	border-collapse:	collapse;
 }
 
