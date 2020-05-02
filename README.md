@@ -1,2 +1,2 @@
 # AnimeSite
-Practice with HTML and CSS
+First Website used to track watched anime and manga
